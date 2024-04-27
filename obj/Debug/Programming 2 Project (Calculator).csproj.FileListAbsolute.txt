@@ -1,0 +1,11 @@
+C:\Users\ahmad\source\repos\Programming 2 Project (Calculator)\bin\Debug\Programming 2 Project (Calculator).exe.config
+C:\Users\ahmad\source\repos\Programming 2 Project (Calculator)\bin\Debug\Programming 2 Project (Calculator).exe
+C:\Users\ahmad\source\repos\Programming 2 Project (Calculator)\bin\Debug\Programming 2 Project (Calculator).pdb
+C:\Users\ahmad\source\repos\Programming 2 Project (Calculator)\obj\Debug\Programming 2 Project (Calculator).csproj.AssemblyReference.cache
+C:\Users\ahmad\source\repos\Programming 2 Project (Calculator)\obj\Debug\Programming 2 Project (Calculator).csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmad\source\repos\Programming 2 Project (Calculator)\obj\Debug\Programming_2_Project__Calculator_.CalculatorForm.resources
+C:\Users\ahmad\source\repos\Programming 2 Project (Calculator)\obj\Debug\Programming_2_Project__Calculator_.Properties.Resources.resources
+C:\Users\ahmad\source\repos\Programming 2 Project (Calculator)\obj\Debug\Programming 2 Project (Calculator).csproj.GenerateResource.cache
+C:\Users\ahmad\source\repos\Programming 2 Project (Calculator)\obj\Debug\Programming 2 Project (Calculator).csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\Programming 2 Project (Calculator)\obj\Debug\Programming 2 Project (Calculator).exe
+C:\Users\ahmad\source\repos\Programming 2 Project (Calculator)\obj\Debug\Programming 2 Project (Calculator).pdb
